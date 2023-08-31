@@ -1,4 +1,4 @@
-# lid_drive_cavity_BIM2D
+# lid_driven_cavity_BIM2D
 Code that solves for velocity boundary condition for 2D using boundary integral method in stokes flow.
 
 
